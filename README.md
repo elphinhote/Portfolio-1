@@ -4,7 +4,7 @@ Updated Portfolio
 
 The updated portfolio, contains assignments and a project to update my responsive portfolio.
 
-app-preview
+Preview
 
 ![Portfolio Page](https://user-images.githubusercontent.com/65749636/110235007-973d0780-7ee2-11eb-9426-42c000bbd20e.PNG)
 
@@ -13,6 +13,6 @@ app-preview
 
 ## Links
 
-Code Repository:  
+Code Repository: https://github.com/elphinhote/Portfolio-1  
 
 Deployed Site: 
