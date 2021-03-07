@@ -15,4 +15,4 @@ Preview
 
 Code Repository: https://github.com/elphinhote/Portfolio-1  
 
-Deployed Site: 
+Deployed Site:  https://elphinhote.github.io/Portfolio-1/
