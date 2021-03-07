@@ -1,8 +1,8 @@
-#Updated Portfolio
+Updated Portfolio
 
 ## Description
 
-As a developer, I will want to have a portfolio online. That portfolio, and all of my work, will have a mobile-first approach. Therefore responsiveness is critical. This practice portfolio demonstrates responsiveness.
+The updated portfolio, contains assignments and a project to update my responsive portfolio.
 
 app-preview
 
