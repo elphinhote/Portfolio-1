@@ -8,6 +8,6 @@ As a developer, I will want to have a portfolio online. That portfolio, and all 
 
 ## Links
 
-Code Repository:  [https://github.com/SamSherrill/Portfolio-V2](https://github.com/SamSherrill/Portfolio-V2)
+Code Repository:  
 
-Deployed Site:  [https://samsherrill.github.io/Portfolio-V2/](https://samsherrill.github.io/Portfolio-V2/)
+Deployed Site: 
