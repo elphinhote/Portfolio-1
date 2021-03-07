@@ -2,7 +2,7 @@ Updated Portfolio
 
 ## Description
 
-The updated portfolio, contains assignments and a project to update my responsive portfolio.
+The updated portfolio, contains assignments and a project to update a responsive portfolio.
 
 Preview
 
